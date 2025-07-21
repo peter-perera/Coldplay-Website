@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=WDXL+Lubrifont+JP+N&display=swap);
+h1{
+    color: white;
+    background-color: #42349F;
+    text-align: center;
+    font-size: 60px;
+    border-radius: 20px;
+    font-family: "WDXL Lubrifont JP N"
+
+}
