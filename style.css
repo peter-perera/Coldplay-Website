@@ -1,10 +1,28 @@
-@import url(https://fonts.googleapis.com/css?family=WDXL+Lubrifont+JP+N&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rammetto+One&family=WDXL+Lubrifont+JP+N&display=swap);
 h1{
     color: white;
     background-color: #42349F;
     text-align: center;
-    font-size: 60px;
+    font-size: 65px;
+    font-weight: bold; 
     border-radius: 20px;
-    font-family: "WDXL Lubrifont JP N"
+    letter-spacing: 10px;
+    font-family: "Rammetto One";
+    
+}
 
+h3{
+    font-size: 25px;
+    font-weight: bold; 
+    letter-spacing: 5px;
+    font-family: "Rammetto One";
+}
+
+p{
+    font-size: 20px;
+    font-family: "Rammetto One";
+}
+
+img{
+    margin-left: 1100px;
 }
